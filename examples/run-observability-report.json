@@ -1,0 +1,17 @@
+{
+  "metrics": {
+    "run_id": "20240604-2351-abc-123",
+    "workflow_name": "weather-mvp-local",
+    "dataset_id": "meteocat-weather",
+    "resource": "stations-metadata",
+    "status": "success",
+    "total_steps": 5,
+    "successful_steps": 5,
+    "failed_steps": 0,
+    "artifact_count": 3,
+    "duration_seconds": 12.45
+  },
+  "health_status": "healthy",
+  "health_message": "All steps completed successfully for weather-mvp-local.",
+  "failed_steps": []
+}
